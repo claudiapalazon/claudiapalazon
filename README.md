@@ -2,9 +2,11 @@
 
 # Hola! 👋
 
-Actualmente he terminado un bootcamp de programación FrontEnd con la escuela Adalab (puedes echar un vistazo a su web aquí: https://adalab.es)
+### Formación desarrollo:
 
-A su vez, pertenezco a la escuela 42 Madrid de Programación (puedes echar un vistazo a su web aquí: https://www.42madrid.com)
+Bootcamp Programación Frontend escuela Adalab (puedes echar un vistazo a su web aquí: https://adalab.es)
+
+Un año en escuela de Programación 42 madrid: https://www.42madrid.com
 
 ### Conocimientos de desarrollo: 🔭
 
@@ -15,6 +17,8 @@ A su vez, pertenezco a la escuela 42 Madrid de Programación (puedes echar un vi
 - Creación de SPAs sencillas con React
 - Manejo de Github, Trello, VS Code, Terminal, Zeplin
 - Experiencia desarrollo de proyectos usando la filosofía Ágil y marco de trabajo Scrum
+
+### Formación diseño:
 
 Además, ¡soy Diseñadora gráfica! Tengo el grado en Diseño Integral y Gestión de la Imagen, impartido por la Universidad Rey Juan Carlos de Madrid.
 
