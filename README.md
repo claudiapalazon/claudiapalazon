@@ -20,10 +20,26 @@ I am a **FrontEnd Developer** with a background in **UX/UI Design**. My mission 
 
 ---
 
-## 💼 Current Focus
-- 🏦 Working at **BBVA Technology** as a FrontEnd Developer.
-- 🤖 **AI-Driven Development:** Deeply focused on integrating AI tools (GitHub Copilot, LLMs) to accelerate delivery, improve code quality, and automate repetitive tasks.
-- ⚡ Optimizing web accessibility (**WCAG**) and performance in digital banking.
+## 💼 Relevant Experience
+
+### **FrontEnd Developer | BBVA Technology**
+*2025 – Present*
+* Developing components and features for digital banking, ensuring **pixel-perfect** standards and web accessibility (**WCAG**).
+* Working with architectures based on **Cells** and **Web Components**.
+* Process optimization through **AI-driven development** and implementation.
+
+### **Web Developer | Harbiz (formerly DudyFit)**
+*2021 – 2025*
+* FrontEnd and Mobile (**React Native**) development for a high-traffic platform.
+* Implementation of complex interfaces while maintaining original design integrity.
+* Stack: React, Meteor JS, MongoDB, and SASS.
+
+---
+
+## 🎓 Education
+* **Master’s in FrontEnd Development** | Lemoncode
+* **Front End Development Bootcamp** | Adalab
+* **Bachelor’s Degree in Comprehensive Design and Image Management** | Universidad Rey Juan Carlos
 
 ---
 
