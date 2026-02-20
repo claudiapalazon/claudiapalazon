@@ -1,9 +1,9 @@
 # Hi there, I'm Claudia Palazón! 👋 
 
-### 🚀 FrontEnd Developer | React Specialist | UX/UI Enthusiast
+### 🚀 FrontEnd Developer | UX/UI Enthusiast
 **Madrid, Spain 🇪🇸**
 
-I am a **FrontEnd Developer** with a solid background in **UX/UI Design**. My mission is to bridge the gap between design and code, building scalable web applications that are as functional as they are beautiful.
+I am a **FrontEnd Developer** with a background in **UX/UI Design**. My mission is to bridge the gap between design and code, building scalable web applications that are as functional as they are beautiful.
 
 ---
 
@@ -22,14 +22,8 @@ I am a **FrontEnd Developer** with a solid background in **UX/UI Design**. My mi
 
 ## 💼 Current Focus
 - 🏦 Working at **BBVA Technology** as a FrontEnd Developer.
+- 🤖 **AI-Driven Development:** Deeply focused on integrating AI tools (GitHub Copilot, LLMs) to accelerate delivery, improve code quality, and automate repetitive tasks.
 - ⚡ Optimizing web accessibility (**WCAG**) and performance in digital banking.
-- 🧪 Constant learning about **Design Systems** and advanced React patterns.
-
----
-
-## 📊 GitHub Stats
-![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiapalazon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiapalazon&layout=compact&theme=radical)
 
 ---
 
